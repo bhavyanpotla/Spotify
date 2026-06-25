@@ -248,46 +248,7 @@ music.exe
 gcc *.c -o music.exe
 ```
 
----
 
-# 📸 Program Screenshots
-
-## ➕ Add Song
-
-![Add Song](<img width="1002" height="417" alt="image" src="https://github.com/user-attachments/assets/2e740015-ec7e-4465-b471-c8e54724b658" />
-)
-
----
-
-## 📃 Display Songs
-
-![Display Songs](<img width="1011" height="869" alt="image" src="https://github.com/user-attachments/assets/25a1b9fe-9c8a-48a4-9112-dd9cbe8a0195" />)
-
----
-
-## 🔍 Search Song
-
-![Search Song]( <img width="669" height="257" alt="image" src="https://github.com/user-attachments/assets/29dc0ac7-e4a4-444c-ab74-f1430290af7f" />)
-
----
-
-## ✏️ Update Song
-
-![Update Song]( <img width="720" height="232" alt="image" src="https://github.com/user-attachments/assets/bc80d5e8-b4e4-4183-9a7d-8a6c5dd26591" />)
-
----
-
-## 🗑️ Delete Song
-
-![Delete Song](<img width="444" height="126" alt="image" src="https://github.com/user-attachments/assets/2e80dd7e-41b9-44b9-a4c0-1f78372af5ad" />)
-
----
-
-## ▶️ Play Song
-
-![Play Song](<img width="1888" height="963" alt="image" src="https://github.com/user-attachments/assets/60703159-1c3c-44be-a045-b939266eea1e" />)
-
----
 
 # 🔒 Security & Stability
 
