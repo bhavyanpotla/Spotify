@@ -1,4 +1,4 @@
-# 🎵 Local Music Player
+# 🎵 SongSphere - Local Music Streaming Platform
 
 <div align="center">
 
